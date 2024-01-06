@@ -1,7 +1,7 @@
 console.log(
   "<----------------------We are gonna fetch git hub profiles.------------------>"
 );
-const gitHubProfiles = ["akshaymarch7", "Aayushipri"];
+const gitHubProfiles = ["Aayushipri"];
 
 async function getNames(gitHubProfiles) {
   const jobs = [];
